@@ -1,0 +1,15 @@
+{
+  "name": "passport-freedomworks",
+  "version": "0.1.0",
+  "description": "FreedomWorks authentication strategy for Passport.",
+  "author": { "name": "Carlos Rodriguez", "email": "carlos@s8f.org", "url": "http://s8f.org/" },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/carlos8f/passport-freedomworks.git"
+  },
+  "main": "./lib",
+  "dependencies": {
+    "passport-oauth": "0.1.x"
+  },
+  "engines": { "node": ">= 0.4.0" }
+}
